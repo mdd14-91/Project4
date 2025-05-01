@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ParkedCar.cpp
+  ParkingMeter.cpp
+  ParkingTicket.cpp
+C:\Users\Yulia\source\repos\Parkingmeter\ParkingTicket.cpp(44,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PoliceOfficer.cpp
+  Generating Code...
+  Parkingmeter.vcxproj -> C:\Users\Yulia\source\repos\Parkingmeter\x64\Debug\Parkingmeter.exe
